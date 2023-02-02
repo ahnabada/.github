@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Are you ready for studing?
+- [ahnabada](https://github.com/ahnabada/study_coding)
+
 <!--
 
 **Here are some ideas to get you started:**
